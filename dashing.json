@@ -1,7 +1,7 @@
 {
     "name": "Godot 3.5",
-    "package": "godot",
-    "index": "index.html",
+    "package": "godot_3.5",
+    "index": "_build/html/index.html",
     "selectors": {
         "dt a": "Command",
         "title": "Package"
@@ -10,6 +10,6 @@
         "ABOUT"
     ],
     "icon32x32": "icon.png",
-    "allowJS": false,
+    "allowJS": true,
     "ExternalURL": "https://docs.godotengine.org/en/stable/"
 }
