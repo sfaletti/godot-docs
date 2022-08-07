@@ -173,7 +173,7 @@ html_context = {
     "godot_canonical_version": "stable",
     # Distinguish local development website from production website.
     # This prevents people from looking for changes on the production website after making local changes :)
-    "godot_title_prefix": "" if on_rtd else "(DEV) ",
+    "godot_title_prefix": "",
 }
 
 html_logo = "img/docs_logo.png"
